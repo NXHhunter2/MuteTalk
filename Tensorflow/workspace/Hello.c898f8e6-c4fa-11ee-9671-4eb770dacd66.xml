@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Hello.c898f8e6-c4fa-11ee-9671-4eb770dacd66.jpg</filename>
+	<path>/Users/zaharsoldatkin/Projects/MuteTalk/Tensorflow/workspace/images/collectedimages/Hello.c898f8e6-c4fa-11ee-9671-4eb770dacd66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>345</ymin>
+			<xmax>944</xmax>
+			<ymax>975</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,5 @@
+openCV
+LabelIMG (conda install pyqt=5, conda install -c anacoda lxml)
+Pandas 
+# 👇️ if you don't have pip in your PATH environment variable
+python -m pip install ...
